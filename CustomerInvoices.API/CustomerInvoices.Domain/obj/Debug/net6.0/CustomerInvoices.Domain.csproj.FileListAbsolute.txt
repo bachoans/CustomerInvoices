@@ -1,0 +1,14 @@
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Domain\obj\Debug\net6.0\CustomerInvoices.Domain.csproj.AssemblyReference.cache
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Domain\obj\Debug\net6.0\CustomerInvoices.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Domain\obj\Debug\net6.0\CustomerInvoices.Domain.AssemblyInfoInputs.cache
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Domain\obj\Debug\net6.0\CustomerInvoices.Domain.AssemblyInfo.cs
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Domain\obj\Debug\net6.0\CustomerInvoices.Domain.csproj.CoreCompileInputs.cache
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Domain\bin\Debug\net6.0\CustomerInvoices.Domain.deps.json
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Domain\bin\Debug\net6.0\CustomerInvoices.Domain.dll
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Domain\bin\Debug\net6.0\CustomerInvoices.Domain.pdb
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Domain\obj\Debug\net6.0\CustomerInvoices.Domain.dll
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Domain\obj\Debug\net6.0\refint\CustomerInvoices.Domain.dll
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Domain\obj\Debug\net6.0\CustomerInvoices.Domain.pdb
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Domain\obj\Debug\net6.0\ref\CustomerInvoices.Domain.dll
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Domain\bin\Debug\net6.0\CustomerInvoices.Domain.runtimeconfig.json
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Domain\obj\Debug\net6.0\CustomerInvoices.Domain.genruntimeconfig.cache

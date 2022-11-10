@@ -1,0 +1,15 @@
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Models\bin\Debug\net6.0\CustomerInvoices.Models.deps.json
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Models\bin\Debug\net6.0\CustomerInvoices.Models.dll
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Models\bin\Debug\net6.0\CustomerInvoices.Models.pdb
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Models\obj\Debug\net6.0\CustomerInvoices.Models.csproj.AssemblyReference.cache
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Models\obj\Debug\net6.0\CustomerInvoices.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Models\obj\Debug\net6.0\CustomerInvoices.Models.AssemblyInfoInputs.cache
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Models\obj\Debug\net6.0\CustomerInvoices.Models.AssemblyInfo.cs
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Models\obj\Debug\net6.0\CustomerInvoices.Models.csproj.CoreCompileInputs.cache
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Models\obj\Debug\net6.0\CustomerInvoices.Models.dll
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Models\obj\Debug\net6.0\refint\CustomerInvoices.Models.dll
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Models\obj\Debug\net6.0\CustomerInvoices.Models.pdb
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Models\obj\Debug\net6.0\ref\CustomerInvoices.Models.dll
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Models\bin\Debug\net6.0\CustomerInvoices.Domain.dll
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Models\bin\Debug\net6.0\CustomerInvoices.Domain.pdb
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Models\obj\Debug\net6.0\CustomerInvoices.Models.csproj.CopyComplete

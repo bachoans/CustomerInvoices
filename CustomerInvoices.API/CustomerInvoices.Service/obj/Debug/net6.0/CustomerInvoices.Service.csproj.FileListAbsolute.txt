@@ -1,0 +1,17 @@
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\bin\Debug\net6.0\CustomerInvoices.Service.deps.json
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\bin\Debug\net6.0\CustomerInvoices.Service.dll
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\bin\Debug\net6.0\CustomerInvoices.Service.pdb
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\obj\Debug\net6.0\CustomerInvoices.Service.csproj.AssemblyReference.cache
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\obj\Debug\net6.0\CustomerInvoices.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\obj\Debug\net6.0\CustomerInvoices.Service.AssemblyInfoInputs.cache
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\obj\Debug\net6.0\CustomerInvoices.Service.AssemblyInfo.cs
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\obj\Debug\net6.0\CustomerInvoices.Service.csproj.CoreCompileInputs.cache
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\obj\Debug\net6.0\CustomerInvoices.Service.dll
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\obj\Debug\net6.0\refint\CustomerInvoices.Service.dll
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\obj\Debug\net6.0\CustomerInvoices.Service.pdb
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\obj\Debug\net6.0\ref\CustomerInvoices.Service.dll
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\bin\Debug\net6.0\CustomerInvoices.Domain.dll
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\bin\Debug\net6.0\CustomerInvoices.Domain.pdb
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\obj\Debug\net6.0\CustomerInvoices.Service.csproj.CopyComplete
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\bin\Debug\net6.0\CustomerInvoices.Models.dll
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.Service\bin\Debug\net6.0\CustomerInvoices.Models.pdb
