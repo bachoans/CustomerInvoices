@@ -19,7 +19,6 @@ namespace CustomerInvoices.API.Controllers
         public async Task<JsonResult> List(int page, int pageSize)
         {
             var result = await _invoiceService.GetInvoicesAsync(page, pageSize);
-
             return Json(result);
         }
 
@@ -31,9 +30,10 @@ namespace CustomerInvoices.API.Controllers
         }
 
         [HttpPut("Update")]
-        public async Task Update(InvoiceModel model)
+        public async Task<JsonResult> Update(InvoiceModel model)
         {
-            await _invoiceService.UpdateInvoiceAsync(model);
+            var result = await _invoiceService.UpdateInvoiceAsync(model);
+            return Json(result);
         }
     }
 }

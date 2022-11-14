@@ -22,8 +22,6 @@ export class InvoiceListComponent implements OnInit {
   }
 
   editInvoice(invoice: InvoiceModel){
-    console.log("editInvoice")
-    console.log(invoice)    
     this.invoiceService.invoice$.subscribe({
       next: (v) => console.log(v),
     });

@@ -7,6 +7,6 @@ namespace CustomerInvoices.Service.Interfaces
     {
         Task<List<InvoiceModel>> GetInvoicesAsync(int pageNumber, int pageSize);
         Task<int> CreateInvoiceAsync(InvoiceModel model);
-        Task UpdateInvoiceAsync(InvoiceModel model);
+        Task<int> UpdateInvoiceAsync(InvoiceModel model);
     }
 }

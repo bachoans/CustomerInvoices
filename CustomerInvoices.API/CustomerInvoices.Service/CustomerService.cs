@@ -17,11 +17,19 @@ namespace CustomerInvoices.Service
 
         public async Task<List<CustomerModel>> GetCustomersAsync(int pageNumber, int pageSize)
         {
-            var data = await _context.Customers.OrderBy(x => x.Id)
-                .Skip(pageNumber * pageSize)
-                .Take(pageSize).ToListAsync();
-            var result = _mapper.Map<List<CustomerModel>>(data);
-            return result;
+            try
+            {
+                var data = await _context.Customers.OrderBy(x => x.Id)
+                        .Skip(pageNumber * pageSize)
+                        .Take(pageSize).ToListAsync();
+                var result = _mapper.Map<List<CustomerModel>>(data);
+                return result;
+            }
+            catch (Exception)
+            {
+                //TODO:log exception
+                throw;
+            }
         }
     }
 }

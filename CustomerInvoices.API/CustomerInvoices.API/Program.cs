@@ -2,7 +2,7 @@ using CustomerInvoices.Domain;
 using CustomerInvoices.Service;
 using CustomerInvoices.Service.Interfaces;
 using Microsoft.AspNetCore.Diagnostics;
-using Microsoft.EntityFrameworkCore; 
+using Microsoft.EntityFrameworkCore;
 using System.Net;
 using System.Text.Json;
 
@@ -15,7 +15,6 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<ICustomerService, CustomerService>();
 builder.Services.AddScoped<IInvoiceService, InvoiceService>();
 builder.Services.AddDbContext<CustomerInvoiceContext>(x => x.UseSqlServer(connectionString));
-
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddCors(p => p.AddPolicy("corsapp", builder =>
 {
@@ -46,7 +45,6 @@ app.UseExceptionHandler(appError =>
 {
     var loggerFactory = appError.ApplicationServices.GetRequiredService<ILoggerFactory>();
     var logger = loggerFactory.CreateLogger(nameof(Program));
-
     appError.Run(async context =>
     {
         context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;

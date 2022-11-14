@@ -11,7 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerInvoices.Service", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerInvoices.Domain", "CustomerInvoices.Domain\CustomerInvoices.Domain.csproj", "{05A3C01D-B002-49DC-AC7A-28C612C3FEF7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerInvoices.Models", "CustomerInvoices.Models\CustomerInvoices.Models.csproj", "{55BD92F8-5E32-448E-BC9D-AF6C96F218F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerInvoices.Models", "CustomerInvoices.Models\CustomerInvoices.Models.csproj", "{55BD92F8-5E32-448E-BC9D-AF6C96F218F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{B8A26395-BEB7-489D-A33E-0CE96695D926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerInvoice.IntegrationTests", "CustomerInvoice.IntegrationTests\CustomerInvoice.IntegrationTests.csproj", "{54A799F3-5BCB-4D16-B779-D941D9CB3A77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerInvoice.UnitTests", "CustomerInvoice.UnitTests\CustomerInvoice.UnitTests.csproj", "{57BEBAB2-C2D9-409C-B2F2-4F1055E568DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,9 +45,21 @@ Global
 		{55BD92F8-5E32-448E-BC9D-AF6C96F218F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55BD92F8-5E32-448E-BC9D-AF6C96F218F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55BD92F8-5E32-448E-BC9D-AF6C96F218F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A799F3-5BCB-4D16-B779-D941D9CB3A77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A799F3-5BCB-4D16-B779-D941D9CB3A77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A799F3-5BCB-4D16-B779-D941D9CB3A77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A799F3-5BCB-4D16-B779-D941D9CB3A77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57BEBAB2-C2D9-409C-B2F2-4F1055E568DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BEBAB2-C2D9-409C-B2F2-4F1055E568DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BEBAB2-C2D9-409C-B2F2-4F1055E568DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BEBAB2-C2D9-409C-B2F2-4F1055E568DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{54A799F3-5BCB-4D16-B779-D941D9CB3A77} = {B8A26395-BEB7-489D-A33E-0CE96695D926}
+		{57BEBAB2-C2D9-409C-B2F2-4F1055E568DD} = {B8A26395-BEB7-489D-A33E-0CE96695D926}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9ADBB7B0-8A1B-4E17-9935-20CF1CCBBF7C}

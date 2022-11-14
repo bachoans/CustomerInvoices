@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "x3qoIRhKdecpOBIK2ge8u7+KyDVF5raPTA2FV5LLvPvhGFHumHx7NMbkduf2hhN9qsoJa0ZYXwoNqXcmfeChqQ==",
+  "dgSpecHash": "8tOVcYTUhA9WdMlZvou5mQ38Hgi/luoNXnFsi6N6YrSorNoVjma5zutZGDiGzfyXbHnewv6C0HtORDHMZofjAw==",
   "success": true,
   "projectFilePath": "D:\\GIThub\\CustomerInvoices\\CustomerInvoices.API\\CustomerInvoices.Domain\\CustomerInvoices.Domain.csproj",
   "expectedPackageFiles": [

@@ -3,6 +3,7 @@ import { BehaviorSubject, catchError, delay, map, Observable, Subject, throwErro
 import { InvoiceModel } from '../models/invoice.model';
 import { HttpClient, HttpErrorResponse, HttpParams } from '@angular/common/http'
 import { ErrorService } from './common/error.service';
+import { environment } from 'src/environments/environment';
 
 @Injectable({
   providedIn: 'root'
@@ -15,17 +16,15 @@ export class InvoiceService {
   constructor(private httpclient: HttpClient, private errorService: ErrorService) { }
 
   GetInvoiceList(page: number, pageSize: number) : Observable<InvoiceModel[]> {
-    return this.httpclient.get<InvoiceModel[]>(`https://localhost:7233/Invoice/List?page=0&pageSize=10`);
+    return this.httpclient.get<InvoiceModel[]>(environment.baseUrl + `Invoice/List?page=0&pageSize=10`);
   }
 
   Create(): Observable<InvoiceModel> {
-    console.log("Create")
-    return this.httpclient.post<InvoiceModel>('https://localhost:7233/Invoice/Create', this.invoice$);
+    return this.httpclient.post<InvoiceModel>(environment.baseUrl + 'Invoice/Create', this.invoice$);
   }
 
   Update(): Observable<InvoiceModel> {
-    console.log("Update");
-    return this.httpclient.put<InvoiceModel>('https://localhost:7233/Invoice/Update', this.invoice$);
+    return this.httpclient.put<InvoiceModel>(environment.baseUrl + 'Invoice/Update', this.invoice$);
   }
 
   private errorHandler(error: HttpErrorResponse){

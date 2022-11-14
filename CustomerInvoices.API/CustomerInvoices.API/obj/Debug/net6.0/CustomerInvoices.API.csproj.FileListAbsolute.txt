@@ -66,3 +66,8 @@ D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.API\bin\Debug\n
 D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.API\bin\Debug\net6.0\CustomerInvoices.Models.dll
 D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.API\bin\Debug\net6.0\CustomerInvoices.Models.pdb
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.API\obj\Debug\net6.0\staticwebassets\msbuild.CustomerInvoices.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.API\obj\Debug\net6.0\staticwebassets\msbuild.build.CustomerInvoices.API.props
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CustomerInvoices.API.props
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CustomerInvoices.API.props
+D:\GIThub\CustomerInvoices\CustomerInvoices.API\CustomerInvoices.API\obj\Debug\net6.0\staticwebassets.pack.json
